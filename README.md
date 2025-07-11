@@ -6,3 +6,4 @@ After logging in, users can easily add income and expense entries, view transact
 
 
 ![image alt](https://github.com/kishorekondeti2/Expense-Tracker/blob/22e78e6122c75caa7c0aa25084ee0dccbba41f4f/Home%20Page.png)
+![image alt](https://github.com/kishorekondeti2/Expense-Tracker/blob/0a4227cb4a077ad6bb3c397e2ba6bf74dc327235/Tracker%20Page.png)
